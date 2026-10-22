@@ -1,0 +1,14 @@
+kpi,value
+Total orders,99441.0
+Valid orders (excl. canceled/unavailable),98207.0
+Unique customers,94990.0
+Repeat customer rate %,3.04
+Active sellers,3053.0
+Revenue R$ (payments),15739137.01
+Average order value R$,160.27
+Median order value R$,105.28
+Late delivery %,6.77
+Median delivery days,10.22
+Average review score,4.09
+Negative review % (1-2 stars),14.69
+Cancellation rate %,0.63
